@@ -3,4 +3,4 @@ Relying Party Para ClaveÚnica (OpenID Connect)
 
 PHP
 ---------
-* Laravel
+* [Laravel](https://github.com/e-gob/Ejemplos-OpenIDConnect-Clave-Unica/blob/master/PHP/Laravel/app/README.md) 
