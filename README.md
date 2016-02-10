@@ -26,6 +26,7 @@ Snippet para el boton de conexión
 ```
 
 Snippet para el controller en Laravel (testeado en v4.2)
+--------------------------------------------------------
 
 ```
 <!-- ROUTE
