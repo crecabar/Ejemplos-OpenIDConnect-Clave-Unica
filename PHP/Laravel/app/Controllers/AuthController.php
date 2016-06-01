@@ -15,9 +15,9 @@ class AuthController extends BaseController {
             'client_info' => array(
                 'client_id' => 'CLIENT ID PROPORCIONADO',
                 'redirect_uri' => 'http://www.sitio.gob.cl/openid/callback',
-                'authorization_endpoint' => 'https://www.claveunica.gob.cl/openid/authorize',
-                'token_endpoint' => 'https://www.claveunica.gob.cl/openid/token',
-                'user_info_endpoint' => 'https://www.claveunica.gob.cl/openid/userinfo',
+                'authorization_endpoint' => 'https://www.claveunica.gob.cl/openid/authorize/',
+                'token_endpoint' => 'https://www.claveunica.gob.cl/openid/token/',
+                'user_info_endpoint' => 'https://www.claveunica.gob.cl/openid/userinfo/',
                 'authentication_info' => array(
                     'method' => 'client_secret_post',
                     'params' => array(
